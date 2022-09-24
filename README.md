@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Belinta001, from Kenya.
+- I am now ALX STUDENT, full stack developer.
 - 👀 I’m interested in programming and robotics.
 - 🌱 I’m currently learning python language, web development using Django.
 - 💞️ I’m looking to collaborate on website development projects and software.
